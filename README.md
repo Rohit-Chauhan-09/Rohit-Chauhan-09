@@ -6,23 +6,19 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rohit-chauhan-9112004x/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">Hii !<br>I am Rohit Chauhan from mumbai and I am doing my graduation 🎓 (Bachelor of Science in Computer Science) from Smt. Chandibai Himathmal Mansukhani (Autonomous) College which is affiliated by university of mumbai.<br>As a CS student, I am learning the world of computer science 😃</p>
+
+###
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/rohit-chauhan-9112004x/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
